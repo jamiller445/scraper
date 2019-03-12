@@ -1,0 +1,732 @@
+App running on port 3000!
+[0mGET /scrape [36m304 [0m11.672 ms - -[0m
+response.data  <!DOCTYPE html>
+<html >
+	<head>
+		<title>News</title>
+		<meta charset="utf-8"> 
+		<meta name="description" content=" For media inquiries please contactKaren PoznaDirector of Communications and Special Events2167382132kpoznaclevelandfoodbankorgCarolyn NewberryCommunications Coordinator2167381608cnewberryclevelandfoodbankorg">
+		<meta name="keywords" content="food,,holiday,bank,cleveland,pageimagewidth,2018,pageimageheight,pageimagelength,pageimageaddclassleft,if,fresh,greater,milk,more							
+							
+								if,2019,at,our,december,press,hot,holidays,be,families,distribute">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="News">
+		<meta property="og:description" content=" For media inquiries please contactKaren PoznaDirector of Communications and Special Events2167382132kpoznaclevelandfoodbankorgCarolyn NewberryCommunications Coordinator2167381608cnewberryclevelandfoodbankorg" />
+		<meta property="og:url" content="https://www.greaterclevelandfoodbank.org/news">
+		<meta property="og:image" content="https://www.greaterclevelandfoodbank.org/images/share.jpg">
+		
+		<meta name="google-site-verification" content="BvK6MyjFxNi9vtZtpk7q-Tb2vflVlEJpmmMUkdZfFIA" />
+		
+		<base href="https://www.greaterclevelandfoodbank.org/" />
+		
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<link rel="stylesheet" type="text/css" href="css/site.css?1541105573" media="screen,print">
+		
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="css/ie.css" media="screen,print">
+			<script type="text/javascript" src="js/respond.min.js"></script>
+		<![endif]-->
+		
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+		<script src="js/easing-min.js"></script>
+		<script src="js/jquery.mousewheel-min.js"></script>
+		<script src="js/jquery.touchSwipe.min.js"></script>
+		<script src="js/site.js?1539696446"></script>
+		<script>
+					var me = {};
+			var logged_in = false;
+				</script>
+		<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+		<script>stLight.options({publisher: "c3760d87-5621-4260-bab1-643d9e402b3c", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PKG7VT');</script>
+		<!-- End Google Tag Manager -->
+		<script>
+		    (function(h,o,t,j,a,r){
+		        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		        h._hjSettings={hjid:63076,hjsv:5};
+		        a=o.getElementsByTagName('head')[0];
+		        r=o.createElement('script');r.async=1;
+		        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		        a.appendChild(r);
+		    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-6466669-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '1777413142520324');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=1777413142520324&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- DO NOT MODIFY -->
+		<!-- End Facebook Pixel Code -->
+	</head>
+	<body >
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKG7VT"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<!-- pixel for remessaging campaign 11/30/17 M.C -->
+		<img src="https://bcp.crwdcntrl.net/5/c=931/b=47907630" width="1" height="1" style="position: absolute;"/>
+		<div id="overlay-bg">
+			<a href="#" title="Close" id="overlay-close">Close</a>
+		</div>
+		<div id="overlay" class="span20">
+			<a href="#" title="Close" id="mobile-overlay-close"><img src="../images/icon-close-white-x.png" alt="icon-close-white-x" width="23" height="23"></a>
+					</div>
+		<div id="vfd-mobile"><!-- WRAPPER TO HIDE PAGE CONTENTS FOR MOBIL VFD OVERLAY -->		
+			<div id="site-search">
+				<div class="cfb-wrapper">
+					<form name="search_form" id="search-form" method="get" action="search">
+						<label>Search</label>
+						<input type="text" name="search_text" id="search" placeholder="What would you like to search for?">
+						<a href="#" title="Go" class="button-link" onclick="$(this).parent('form').submit(); return false;">Go</a>
+					</form>
+				</div>
+			</div>
+			<header id="mobile-site-header">
+				<a href="#" title="" class="mobile-nav-trigger"></a>
+				<a href="/" title="Greater Cleveland Food Bank"><img src="../images/logo.png" alt="Greater Cleveland Food Bank" title="Greater Cleveland Food Bank"></a>
+				<nav id="mobile-main-nav">
+					<ul class="main-navigation">
+						<li><a href="#" title="Get Help" id="mobile-nav-get-help" class="mobile-shelf-trigger">Get Help</a></li>
+						<li><a href="#" title="Give Help" id="mobile-nav-give-help" class="mobile-shelf-trigger">Give Help</a></li>
+						<li><a href="#" title="Programs" id="mobile-nav-programs" class="mobile-shelf-trigger">Programs</a></li>
+						<li class="sub"><a href="about" title="About" style="padding-top: 25px;">About</a></li>
+						<li class="sub"><a href="news" title="News">News</a></li>
+						<li class="sub"><a href="events" title="Events">Events</a></li>
+						<li class="sub"><a href="harvest-for-hunger" title="Harvest for Hunger">Harvest for Hunger</a></li>
+						<li class="sub"><a href="employment" title="Employment">Employment</a></li>
+						<li class="sub"><a href="contact" title="contact">Contact</a></li>
+					</ul>
+					<ul class="vfd">
+						<li class="main"><a href="#" title="start a drive" class="start-a-drive">start a drive</a></li>
+						<li class="main"><a href="#" title="manage a drive" class="my-drives-link">manage a drive</a></li>
+						<li class="main"><a href="virtual-food-drive/drives" title="all drives">all drives</a></li>
+						<li class="main"><form name="find_a_drive" id="find-a-drive" method="post" action="/virtual-food-drive/drives"><label>find a drive:</label><input type="text" name="drive_search"  value="" placeholder="Drive or organizer name"><button><img src="/images/icon-arrow-right-blue.png" alt="icon-arrow-right-blue" width="23" height="23" /></button></form></li>
+						<li><a href="virtual-food-drive/about-virtual-food-drives" title="About Virtual Food Drives">About Virtual Food Drives</a></li>
+						<li><a href="virtual-food-drive/resources" title="Resources">Resources</a></li>
+						<li><a href="virtual-food-drive/faqs" title="FAQs">FAQs</a></li>
+						<li><a href="virtual-food-drive/contact" title="Contact">Contact</a></li>
+						<li><a href="https://secure3.convio.net/cfban/site/Donation2;jsessionid=00000000.app340a?idb=305227542&df_id=1520&1520.donation=form1&mfc_pref=T&NONCE_TOKEN=DCE4A69ED01C52ABF4358246F0A97228" title="Donate" target="_blank">Donate</a></li>
+						<li><a href="/" title="GreaterClevelandFoodBank.org">Back to main site</a></li>
+						<li class="special logged-out"><a href="#" title="Login" id="login-link" class="has-overlay">Login</a></li>
+						<li class="special welcome logged-in"><a href="inc/logout.php" title="Logout">Logout</a></li>
+					</ul>
+				</nav>
+				<div id="mobile-shelf">
+					<div class="shelf-back"><a href="#">back</a></div>
+					<div id="mobile-page-get-help" class="mobile-page">
+						<h3>Apply for Help</h3>
+						<ul>
+							<li><a href="get-help/apply-for-help/about-snap-food-stamps" title="About Snap (Food Stamps)">About Snap (Food Stamps)</a></li>
+							<li><a href="get-help/apply-for-help/am-i-eligible" title="Am I Eligible?">Am I Eligible?</a></li>
+							<li><a href="get-help/apply-for-help/apply" title="Apply">Apply</a></li>
+							<li><a href="get-help/apply-for-help/faqs" title="FAQs">FAQs</a></li>
+						</ul>
+						<h3>Resources and Information</h3>
+						<ul>
+							<li><a href="partner-agencies/list" title="">Find Food</a></li>
+							<li><a href="get-help/nutrition-recipes" title="Nutrition & Recipes">Nutrition & Recipes</a></li>
+							<li><a href="get-help/help-center" title="Help Center">Help Center</a></li>
+						</ul>
+					</div>
+					<div id="mobile-page-give-help" class="mobile-page">
+						<h3>Donate Food<br>& Funds</h3>
+						<a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1520&1520.donation=form1&mfc_pref=T" title="Donate Online" class="button-link">Donate Online</a>
+						<ul>
+							<li><a href="give-help/donate-food-funds/how-to-give" title="How to Give">How to Give</a></li>
+							<li><a href="give-help/why-give" title="Why Give?">Why Give?</a></li>
+							<li><a href="give-help/donate-food-funds/donate-food" title="Donate Food">Donate Food</a></li>
+							<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1540&mfc_pref=T&1540.donation=form1" title="Tribute Giving">Tribute Giving</a></li>
+							<li><a href="give-help/donate-food-funds/planned-giving" title="Planned Giving">Planned Giving</a></li>
+							<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1561&mfc_pref=T&1561.donation=form1" title="Monthly Giving">Monthly Giving</a></li>
+							<li><a href="give-help/donate-food-funds/corporate-giving" title="Corporate Giving">Corporate Giving</a></li>
+							<li><a href="give-help/donate-food-funds/donate-stock" title="Sotck & IRA Giving">Stock & IRA Giving</a></li>
+						</ul>
+						<h3>Food Drives <span><br></span>and Fundraisers</h3>
+						<ul>
+							<li><a href="give-help/start-a-drive/how-to-get-started" title="How to Get Started">How to Get Started</a></li>
+							<li><a href="give-help/start-a-drive/virtual-fooddrives" title="Create a Virtual Food Drive">Create a Virtual Food Drive</a></li>
+							<li><a href="give-help/start-a-drive/how-what-amp-where-to-donate" title="Food Drive: Frequently Asked Questions">Food Drive: Frequently Asked Questions</a></li>
+							<li><a href="give-help/start-a-drive/tips-for-a-successful-drive" title="Tips for a Successful Drive">Tips for a Successful Drive</a></li>
+						</ul>
+						<h3>Get<br>Involved</h3>
+						<ul>
+							<li><a href="give-help/advocate" title="Advocate">Advocate</a></li>
+							<li><a href="give-help/volunteer" title="Volunteer">Volunteer</a></li>
+							<li><a href="give-help/food-industry-donations" title="Food Industry Donations">Food Industry Donations</a></li>
+							<li><a href="give-help/yp-pantry" title="YP Pantry">YP Pantry</a></li>
+						</ul>
+					</div>
+					<div id="mobile-page-programs" class="mobile-page">
+						<h3>Our Programs</h3>
+						<ul>
+							<li><a href="programs" title="About our Programs">Overview</a></li>
+							<li><a href="programs/feeding-children" title="Feeding Children">Feeding Children</a></li>
+							<li><a href="programs/feeding-seniors" title="Feeding Seniors">Feeding Seniors</a></li>
+							<li><a href="programs/mobile-pantries" title="Mobile Pantries">Mobile Pantries</a></li>
+							<li><a href="programs/greater-cleveland-food-bank-kitchen" title="Greater Cleveland Food Bank Kitchen">Greater Cleveland<br>Food Bank Kitchen</a></li>
+							<li><a href="programs/food-as-medicine" title="Food As Medicine">Food as Medicine</a></li>
+						</ul>
+						<h3>Partner Agencies</h3>
+						<ul>
+							<li><a href="partner-agencies" title="Overview">Overview</a></li>
+							<li><a href="partner-agencies/list" title="List of Partner Agencies">List of Partner Agencies</a></li>
+							<li><a href="partner-agencies/emergency-feeding-programs" title="Emergency Feeding Programs">Emergency Feeding Programs</a></li>
+							<li><a href="partner-agencies/special-distribution-partners" title="Special Distribution Partners">Special Distribution Partners</a></li>
+							<li><a href="partner-agencies/benefits" title="Partner Agency Benefits">Partner Agency Benefits</a></li>
+						</ul>	
+						<h3>Benefits Outreach</h3>
+						<ul>
+							<li><a href="get-help/help-center" title="Help Center">Help Center</a></li>
+							<li><a href="programs/snap-outreach" title="Snap Outreach">Snap Outreach</a></li>
+						</ul>
+					</div>
+				</div>
+			</header>
+			<div id="main-wrapper" class="site-wrapper">
+				<header id="site-header">
+					<nav id="programs-list">
+						<a href="#" id="nav-programs" title="How we fight hunger" class="shelf-trigger">About Our Programs & Partners</a>
+					</nav>
+					<div class="cfb-wrapper">
+						<div id="vfd-logo"><a href="/"><img src="images/logo-vfd.png" alt="Greater Cleveland Food Bank" width="184" height="43"></a></div>
+						<nav id="secondary-nav">
+							<!-- FOOD BANK -->
+							<ul class="nav">
+								<li><a href="about" title="About">About</a></li>
+								<li><a href="news" title="News" class="selected">News</a></li>
+								<li><a href="events" title="Events">Events</a></li>
+								<li><a href="harvest-for-hunger" title="Harvest for Hunger">Harvest for Hunger</a></li>
+								<li><a href="employment" title="Employment">Employment</a></li>
+								<li><a href="contact" title="contact">Contact</a></li>
+							</ul>
+							<ul class="search-share">
+								<li>
+									<a href="#" onclick="$(this).next('.networks').toggleClass('open'); return false;"><img src="../images/icon-share-circle.png" alt="Share This" title="Share This" width="23" height="23"></a>
+									<div class="networks">
+										<span class="st_facebook_custom"></span>
+										<span class="st_twitter_custom"></span>
+										<span class="st_linkedin_custom"></span>
+										<span class="st_pinterest_custom"></span>
+										<span class="st_email_custom"></span>
+									</div>
+								</li>
+								<li><a href="#" class="search-link" onclick="return false;"><img src="../images/icon-search.png" alt="Search" title="Search" width="23" height="23"></a></li>
+							</ul>
+							<a href="https://secure3.convio.net/cfban/site/Donation2;jsessionid=00000000.app340a?idb=305227542&df_id=1520&1520.donation=form1&mfc_pref=T&NONCE_TOKEN=DCE4A69ED01C52ABF4358246F0A97228" id="donate-button" target="_blank" title="donate" class="button-link">Donate</a>
+							<!-- VIRTUAL FOOD DRIVE -->
+							<ul class="nav vfd">
+								<li><a href="virtual-food-drive/about-virtual-food-drives" title="About Virtual Food Drives">About Virtual Food Drives</a></li>
+								<li><a href="virtual-food-drive/resources" title="Resources">Resources</a></li>
+								<li><a href="virtual-food-drive/faqs" title="FAQs">FAQs</a></li>
+								<li><a href="virtual-food-drive/contact" title="Contact">Contact</a></li>
+								<li><a href="https://secure3.convio.net/cfban/site/Donation2;jsessionid=00000000.app340a?idb=305227542&df_id=1520&1520.donation=form1&mfc_pref=T&NONCE_TOKEN=DCE4A69ED01C52ABF4358246F0A97228" title="Donate" target="_blank">Donate</a></li>
+								<li><a href="/" title="GreaterClevelandFoodBank.org">GreaterClevelandFoodBank.org</a></li>
+								<li class="special logged-out"><a href="#" title="Login" id="login-link" class="has-overlay">Login</a></li>
+								<li class="special welcome logged-in"><a href="inc/logout.php" title="Logout">Logout</a></li>
+							</ul>
+						</nav>
+						<div id="nav-wrap">
+							<div id="logo">
+								<a href="/" title="Greater Cleveland Food Bank">
+									<img src="images/logo.gif" alt="Greater Cleveland Food Bank" title="Greater Cleveland Food Bank" width="233" height="54">
+								</a>
+							</div>
+							<nav id="main-nav">
+								<ul>
+									<li><a href="#" title="Get Help" id="nav-get-help" class="shelf-trigger">Get Help</a></li>
+									<li><a href="#" title="Give Help" id="nav-give-help" class="shelf-trigger">Give Help</a></li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+					<div id="shelf-menu" class="shelf">
+						<div id="page-programs" class="page cf">
+							<div class="page-wrapper">
+								<div class="column">
+									<h3>Our<br>Programs</h3>
+									<div class="inner">
+										<ul>
+											<li><a href="programs" title="About our Programs">Overview</a></li>
+											<li><a href="programs/mobile-pantries" title="Mobile Pantries">Mobile Pantries</a></li>
+											<li><a href="programs/greater-cleveland-food-bank-kitchen" title="Greater Cleveland Food Bank Kitchen">Greater Cleveland<br>Food Bank Kitchen</a></li>
+											<li><a href="programs/food-as-medicine" title="Food As Medicine">Food as Medicine</a></li>
+										</ul>
+									</div>
+									<div class="inner">
+										<h3 class="sub"><a href="programs/feeding-children" title="Feeding Children">Feeding Children</a></h3>
+										<ul>
+											<li><a href="programs/backpacks-for-kids" title="BackPacks for Kids">BackPacks for Kids</a></li>
+											<li><a href="programs/kids-cafe" title="Kids Cafe">Kids Cafe</a></li>
+											<li><a href="programs/summer-feeding" title="Summer Feeding">Summer Feeding</a></li>
+											<li><a href="programs/school-markets" title="School Markets">School Markets</a></li>
+										</ul>
+									</div>
+									<div class="inner">
+										<h3 class="sub"><a href="programs/feeding-seniors" title="Feeding Seniors">Feeding Seniors</a></h3>
+										<ul>
+											<li><a href="programs/senior-markets" title="Senior Markets">Senior Markets</a></li>
+											<li><a href="programs/senior-boxes" title="Senior Boxes">Senior Boxes</a></li>
+											<li><a href="programs/grocery-delivery" title="Grocery Delivery">Grocery Delivery</a></li>
+											<li><a href="programs/home-delivered-meals" title="Home Delivered Meals">Home Delivered Meals</a></li>
+											<li><a href="programs/other-services" title="Other Services">Other Services</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="column">
+									<h3>Partner<br>Agencies</h3>
+									<ul>
+										<li><a href="partner-agencies" title="Overview">Overview</a></li>
+										<li><a href="partner-agencies/list" title="List of Partner Agencies">List of Partner Agencies</a></li>
+										<li><a href="partner-agencies/emergency-feeding-programs" title="Emergency Feeding Programs">Emergency Feeding Programs</a></li>
+										<li><a href="partner-agencies/special-distribution-partners" title="Special Distribution Partners">Special Distribution Partners</a></li>
+										<li><a href="partner-agencies/benefits" title="Partner Agency Benefits">Partner Agency Benefits</a></li>
+									</ul>
+								</div>
+								<div class="column">
+									<h3>Benefits Outreach</h3>
+									<ul>
+										<li><a href="get-help/help-center" title="Help Center">Help Center</a></li>
+										<li><a href="programs/snap-outreach" title="Snap Outreach">Snap Outreach</a></li>
+									</ul>
+								</div>
+							</div>
+							<a href="give-help/volunteer" title="Learn More">
+								<div class="callout-strip">
+									<div class="page-wrapper">
+										<h3>Volunteer</h3>
+										<p>Would you like to become a volunteer for any of our programs? <span class="link">Learn more</span></p>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div id="page-get-help" class="page cf">
+							<div class="page-wrapper">
+								<div class="column">
+									<h3>Apply for<br>Help</h3>
+									<ul>
+										<li><a href="get-help/apply-for-help/about-snap-food-stamps" title="About Snap (Food Stamps)">About Snap (Food<br> Stamps)</a></li>
+										<li><a href="get-help/apply-for-help/am-i-eligible" title="Am I Eligible?">Am I Eligible?</a></li>
+										<li><a href="get-help/apply-for-help/apply" title="Apply">Apply</a></li>
+										<li><a href="get-help/apply-for-help/faqs" title="FAQs">FAQs</a></li>
+									</ul>
+								</div>
+								<div class="column">
+									<h3>Resources<br>and Information</h3>
+									<ul>
+										<li><a href="partner-agencies/list" title="">Find Food</a></li>
+										<li><a href="get-help/nutrition-recipes" title="Nutrition & Recipes">Nutrition & Recipes</a></li>
+										<li><a href="get-help/help-center" title="Help Center">Help Center</a></li>
+									</ul>
+								</div>
+								<div class="column">
+									<h3 class="callout">Struggling to pay for food?</h3>
+									<p class="full">Call Our Help Center at 216-738-2067 to apply for SNAP and other programs.</p>
+									<p class="tablet">Call Our Help Center at 216-738-2067 to apply for SNAP and other programs.</p>
+									<div id="ciwNB1" style="z-index:100;position:absolute"></div><div id="scwNB1" style="display:inline"></div><div id="sdwNB1" style="display:none"></div><script type="text/javascript">var sewNB1=document.createElement("script");sewNB1.type="text/javascript";var sewNB1s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/1gcbdvpl5oyk71otnbp8atmj0k/safe-standard.js?ps_h=wNB1&ps_t="+new Date().getTime();setTimeout("sewNB1.src=sewNB1s;document.getElementById('sdwNB1').appendChild(sewNB1)",1)</script><noscript><div style="display:inline"><a href="https://www.providesupport.com?messenger=1gcbdvpl5oyk71otnbp8atmj0k">Live Chat Help</a></div></noscript>
+								</div>
+							</div>
+							<a href="get-help/apply-for-help/apply" title="Get Started">
+								<div class="callout-strip">
+									<div class="page-wrapper">
+										<h3>Are you in need?</h3>
+										<p>Apply for benefits quickly and confidentially online. <span class="link">Get Started</span></p>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div id="page-give-help" class="page cf">
+							<div class="page-wrapper">
+								<div class="column">
+									<h3>Donate Food<br>& Funds</h3>
+									<a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1520&1520.donation=form1&mfc_pref=T" title="Donate Online" class="button-link">Donate Online</a>
+									<div class="inner">
+										<ul>
+											<li><a href="give-help/donate-food-funds/how-to-give" title="How to Give">How to Give</a></li>
+											<li><a href="give-help/why-give" title="Why Give?">Why Give?</a></li>
+											<li><a href="give-help/donate-food-funds/donate-food" title="Donate Food">Donate Food</a></li>
+											<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1540&mfc_pref=T&1540.donation=form1" title="Tribute Giving">Tribute Giving</a></li>
+										</ul>
+									</div>
+									<div class="inner">
+										<ul>
+											<li><a href="give-help/donate-food-funds/planned-giving" title="Planned Giving">Planned Giving</a></li>
+											<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1561&mfc_pref=T&1561.donation=form1" title="Monthly Giving">Monthly Giving</a></li>
+											<li><a href="give-help/donate-food-funds/corporate-giving" title="Corporate Giving">Corporate Giving</a></li>
+											<li><a href="give-help/donate-food-funds/donate-stock" title="Sotck & IRA Giving">Stock & IRA Giving</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="column">
+									<h3>Food Drives <span><br></span>and Fundraisers</a></h3>
+									<ul>
+										<li><a href="give-help/start-a-drive/how-to-get-started" title="How to Get Started">How to Get Started</a></li>
+										<li><a href="give-help/start-a-drive/virtual-fooddrives" title="Create a Virtual Food Drive">Create a Virtual Food Drive</a></li>
+										<li><a href="give-help/start-a-drive/how-what-amp-where-to-donate" title="Food Drive: Frequently Asked Questions">Food Drive: Frequently Asked Questions</a></li>
+										<li><a href="give-help/start-a-drive/tips-for-a-successful-drive" title="Tips for a Successful drive">Tips for a Successful Drive</a></li>
+									</ul>
+								</div>
+								<div class="column">
+									<h3>Get<br>Involved</h3>
+									<ul>
+										<li><a href="give-help/advocate" title="Advocate">Advocate</a></li>
+										<li><a href="give-help/volunteer" title="Volunteer">Volunteer</a></li>
+										<li><a href="give-help/food-industry-donations" title="Food Industry Donations">Food Industry Donations</a></li>
+										<li><a href="give-help/yp-pantry" title="YP Pantry">YP Pantry</a></li>
+									</ul>
+								</div>
+							</div>
+							<a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1520&1520.donation=form1&mfc_pref=T" title="Give Online">
+								<div class="callout-strip">
+									<div class="page-wrapper">
+										<h3>Donate Now</h3>
+										<p>A donation of $1 can provide four meals to hungry people in our communities. <span class="link">Give Online</span></p>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</header>		<div class="site-wrapper no-nav">
+	<div id="header-image" class="short">
+		<img src="/images/headers/short/garden_short.jpg" alt="" title="" width="1154" class="header-bg">
+	</div>
+</div>
+<section id="news">
+	<div class="cfb-wrapper">
+		<div class="row">
+			<div id="news-entries" class="span13 inset-r2 border-right">
+				<h1>News</h1>
+				<div class="entry first">
+																<h2>
+									<a href="/news/2019/01/11/greater-cleveland-food-bank-to-distribute-fresh-milk-at-facility" title="Greater Cleveland Food Bank to Distribute Fresh Milk at Facility">Greater Cleveland Food Bank to Distribute Fresh Milk at Facility</a>								</h2>
+								<p class="details">Posted January 11, 2019 in <a href="/news/category/press-releases" title="Press Releases">Press Releases</a></p>
+								<p>Greater Cleveland Food Bank to Distribute Fresh Milk at Facility
+Free, fresh milk will be available to families in need.
+WHAT: The Greater Cleveland Food Bank will be distributing free, fresh milk to families in need at...<a href="/news/2019/01/11/greater-cleveland-food-bank-to-distribute-fresh-milk-at-facility" title="read more">read more</a></p>							</div>
+							<script>
+								if ($('.page-image').length) {
+									if ($('.page-image').width() < $('.page-image').height()) {
+										$('.page-image').addClass('left');
+									} 
+								}
+							</script><div class="entry">
+																<h2>
+									<a href="files/news/fb35683-3newsletter.pdf" title="Winter 2019 Newsletter" target="_blank">Winter 2019 Newsletter</a>								</h2>
+								<p class="details">Posted January 07, 2019 in <a href="/news/category/newsletters" title="Newsletters">Newsletters</a></p>
+								<p>Click to read our Winter 2019 issue of Food for Thought. <a href="files/news/fb35683-3newsletter.pdf" title="download" target="_blank">download</a></p>							</div>
+							<script>
+								if ($('.page-image').length) {
+									if ($('.page-image').width() < $('.page-image').height()) {
+										$('.page-image').addClass('left');
+									} 
+								}
+							</script><div class="entry">
+																<h2>
+									<a href="/news/2018/12/19/announcementphoto-opportunity-greater-cleveland-food-bank-holiday-distribution-holiday-hot-meals" title="ANNOUNCEMENT/PHOTO OPPORTUNITY: Greater Cleveland Food Bank Holiday Distribution & Holiday Hot Meals">ANNOUNCEMENT/PHOTO OPPORTUNITY: Greater Cleveland Food Bank Holiday Distribution & Holiday Hot Meals</a>								</h2>
+								<p class="details">Posted December 19, 2018 in <a href="/news/category/press-releases" title="Press Releases">Press Releases</a></p>
+								<p>Greater Cleveland Food Bank Holiday Distribution &amp; Holiday Hot Meals
+Legislators Pitch In and Help Distribute Fresh Produce at the Food Bank
+Thursday, December 20, 4 p.m. 
+WHAT: As many prepare for the holidays, the need remains...<a href="/news/2018/12/19/announcementphoto-opportunity-greater-cleveland-food-bank-holiday-distribution-holiday-hot-meals" title="read more">read more</a></p>							</div>
+							<script>
+								if ($('.page-image').length) {
+									if ($('.page-image').width() < $('.page-image').height()) {
+										$('.page-image').addClass('left');
+									} 
+								}
+							</script><div class="entry">
+																<h2>
+									<a href="/news/2018/12/18/2018-december-holiday-hot-meal-sites" title="2018 December Holiday Hot Meal Sites">2018 December Holiday Hot Meal Sites</a>								</h2>
+								<p class="details">Posted December 18, 2018 in <a href="/news/category/press-releases" title="Press Releases">Press Releases</a></p>
+								<p>The Greater Cleveland Food Bank&rsquo;s more than 900 partners are hard at work to make sure all individuals in our service area do not go hungry during the holidays. The Food Bank has prepared a...<a href="/news/2018/12/18/2018-december-holiday-hot-meal-sites" title="read more">read more</a></p>							</div>
+							<script>
+								if ($('.page-image').length) {
+									if ($('.page-image').width() < $('.page-image').height()) {
+										$('.page-image').addClass('left');
+									} 
+								}
+							</script><div class="entry last">
+																<h2>
+									<a href="/news/2018/11/30/greater-cleveland-food-bank-announces-launch-of-2018-holiday-campaign" title="Greater Cleveland Food Bank Announces Launch of 2018 Holiday Campaign">Greater Cleveland Food Bank Announces Launch of 2018 Holiday Campaign</a>								</h2>
+								<p class="details">Posted November 30, 2018 in <a href="/news/category/press-releases" title="Press Releases">Press Releases</a></p>
+								<p>Cleveland, OH- The holiday season proves to be a difficult time for hardworking families, seniors, and countless others in our community. As many look forward to the excitement the holidays bring, our neighbors in need...<a href="/news/2018/11/30/greater-cleveland-food-bank-announces-launch-of-2018-holiday-campaign" title="read more">read more</a></p>							</div>
+							<script>
+								if ($('.page-image').length) {
+									if ($('.page-image').width() < $('.page-image').height()) {
+										$('.page-image').addClass('left');
+									} 
+								}
+							</script><div class="pagination"><a href="/news?page=1" title="Page 1" class="selected">1</a><a href="/news?page=2" title="Page 2">2</a><a href="/news?page=3" title="Page 3">3</a><a href="/news?page=4" title="Page 4">4</a><a href="/news?page=5" title="Page 5">5</a><a href="/news?page=6" title="Page 6">6</a><a href="/news?page=7" title="Page 7">7</a><a href="/news?page=8" title="Page 8">8</a><a href="/news?page=9" title="Page 9">9</a><a href="/news?page=10" title="Page 10">10</a>...
+				<a href="/news?page=20" title="Page 20">20</a>
+				<a href="/news?page=21" title="Page 21">21</a></div>			</div>
+			<aside id="news-right" class="span8 offset1">
+				<nav>
+					<form name="news_filters" id="news-filters" method="post" action="/news">
+						<input type="hidden" name="action" id="news-filter-action" value="filters" />
+						<h3>Filter by Category</h3>
+						<select name="category_id" id="category-id">
+							<option value=""> - select category - </option>
+							<option value="2">Articles</option><option value="3">Media</option><option value="4">Newsletters</option><option value="1">Press Releases</option>						</select>
+						
+						<h3>Filter by Year</h3>
+						<select name="year" id="news-year">
+							<option value=""> - select year - </option>
+							<option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option>						</select>
+						<script>
+							$('#news-filters select').change(function() {
+								$(this).closest('form').submit();
+							});
+						</script>
+						<div id="interior-plugins" class="" data-accepts="dynamic,image,video,text,social"><hr /><p><strong>For media inquiries, please contact:</strong></p><p><strong>Karen Pozna<br /></strong>Director of Communications and Special Events<br />216.738.2132<br /><a href="mailto:kpozna@clevelandfoodbank.org" target="_blank">kpozna@clevelandfoodbank.org</a></p><p><strong>Carolyn Newberry<br /></strong>Communications Coordinator<br />216.738.1608<br /><a href="mailto:cnewberry@clevelandfoodbank.org" target="_blank">cnewberry@clevelandfoodbank.org</a></p><div class="plugin-wrapper story">
+					<img src="/files/stories/plugin/miriam.jpg" alt="Your Kindness is Vital for Seniors" title="Your Kindness is Vital for Seniors" width="328" height="283">
+					<div class="story-content">
+						<h3>Miriam</h3>
+						<p>“And now, something good happened. We appreciate that some people gave for other people.”<a href="give-help/why-give/your-kindness-is-vital-for-seniors" title="Continue">Continue</a></p>
+					</div>
+					<a href="https://secure3.convio.net/cfban/site/Donation2;jsessionid=00000000.app30108b?df_id=1520&1520.donation=form1&mfc_pref=T&NONCE_TOKEN=985DEB33A05BEF64EB24DC52AD6399B3" class="donate" target="_blank">
+						<div class="header"><strong>$1</strong> can help provide <strong>4 meals</strong>.</div>
+						<span class="button-link outline">Donate</span>
+					</a>
+				</div></div>
+					</form>
+				</nav>
+			</aside>
+		</div>
+	</div>
+</section>		<footer>
+			<section id="callouts">
+				<a href="get-help/help-center" title="" class="callout-strip">
+								<div class="cfb-wrapper">
+									<span class="title">Are you in need?</span><span class="content">Every dollar counts when you're struggling to pay for food.</span>
+								</div>
+							</a>				<div id="location-callouts">
+												<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3523#.VipL6H6rTVYhttp://" title="read more" class="callout"><span class="inner"><p>GCFB Receives 4 Star Rating on Charity Navigator</p></span></a>
+																	<a href="https://www.greaterclevelandfoodbank.org/about/strategic-plan" title="read more" class="callout"><span class="inner">Improving Lives: Strategic Plan 2019-2021</span></a>
+																	<a href="https://issuu.com/gcfb/docs/annual_report_2017" title="read more" class="callout last"><span class="inner"><p>Check out our <br /> 2017 Annual Report</br></p></span></a>
+									</div>
+			</section>
+			<section id="power">
+				<div class="cfb-wrapper">
+					<ul id="misc">
+						<li class="social-item"><a href="https://twitter.com/CleFoodbank" title="Twitter" target="_blank"><img src="images/social/icon-twitter-circle.png" alt="icon-twitter-circle" width="25" height="25" /></a></li>
+						<li class="social-item"><a href="https://www.facebook.com/ClevelandFoodbank" title="Facebook" target="_blank"><img src="images/social/icon-facebook-circle.png" alt="icon-facebook-circle" width="25" height="25" /></a></li>
+						<li class="social-item"><a href="http://www.youtube.com/user/TheClevelandFoodbank" title="YouTube" target="_blank"><img src="images/social/icon-youtube-circle.png" alt="icon-youtube-circle" width="25" height="25" /></a></li>
+						<li class="social-item"><a href="http://instagram.com/clefoodbank" title="Instagram" target="_blank"><img src="images/social/icon-instagram-circle.png" alt="icon-instagram-circle" width="25" height="25" /></a></li>
+						<li class="social-item last"><a href="http://www.linkedin.com/company/cleveland-foodbank" title="LinkedIn" target="_blank"><img src="images/social/icon-linkedin-circle.png" alt="icon-linkedin-circle" width="25" height="25" /></a></li>
+						<li id="harvest" class="footer-item"><a href="harvest-for-hunger" title="Harvest For Hunger" target="_blank"><img src="images/h4h-logo.png" alt="logo-harvest-for-hunger" width="105"></a></li>
+						<li id="fb-like" class="footer-item"><div class="fb-like" data-href="http://greaterclevelandfoodbank.org/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+						<li id="email-signup" class="footer-item last">
+							<a href="http://support.greaterclevelandfoodbank.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1444" target="_blank" class="signup-text right-arrow-link">sign up for our newsletter</a>
+						</li>
+					</ul>
+					<div id="sitemap" class="row">
+						<div id="mobile-wrap">
+							<div class="span4 border-right col1">
+								<div id="footer-get-help">
+									<h3>Get Help</h3>
+									<h4>Apply for Help</h4>
+									<ul>
+										<li><a href="get-help/apply-for-help/about-snap-food-stamps" title="About Snap (Food Stamps)">About Snap<br>(Food Stamps)</a></li>
+										<li><a href="get-help/apply-for-help/am-i-eligible" title="Am I Eligible?">Am I Eligible?</a></li>
+										<li><a href="get-help/apply-for-help/apply" title="Apply">Apply</a></li>
+										<li><a href="get-help/apply-for-help/faqs" title="FAQs">FAQs</a></li>
+									</ul>
+									<h4>Resources and Information</h4>
+									<ul>
+										<li><a href="partner-agencies/list" title="">Find Food</a></li>
+										<li><a href="get-help/nutrition-recipes" title="Nutrition & Recipes">Nutrition & Recipes</a></li>
+										<li><a href="get-help/help-center" title="Help Center">Help Center</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="span10 border-right col2">
+								<div id="footer-give-help">
+									<h3>Give Help</h3>
+<!-- 									<a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1520&1520.donation=form1&mfc_pref=T" title="Donate Online" class="button-link">Donate Online</a> -->
+									<div class="footer-column">
+										<h4>Donate Food & Funds</h4>
+										<ul>
+											<li><a href="give-help/donate-food-funds/how-to-give" title="How to Give">How to Give</a></li>
+											<li><a href="give-help/why-give" title="Why Give?">Why Give?</a></li>
+											<li><a href="give-help/donate-food-funds/donate-food" title="Donate Food">Donate Food</a></li>
+											<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1540&mfc_pref=T&1540.donation=form1" title="Tribute Giving">Tribute Giving</a></li>
+											<li><a href="give-help/donate-food-funds/planned-giving" title="Planned Giving">Planned Giving</a></li>
+											<li><a href="http://support.greaterclevelandfoodbank.org/site/Donation2?df_id=1561&mfc_pref=T&1561.donation=form1" title="Monthly Giving">Monthly Giving</a></li>
+											<li><a href="give-help/donate-food-funds/corporate-giving" title="Corporate Giving">Corporate Giving</a></li>
+											<li><a href="give-help/donate-food-funds/donate-stock" title="Sotck & IRA Giving">Stock & IRA Giving</a></li>
+										</ul>
+										<h4>Get Involved</h4>
+										<ul>
+											<li><a href="give-help/advocate" title="Advocate">Advocate</a></li>
+											<li><a href="give-help/volunteer" title="Volunteer">Volunteer</a></li>
+											<li><a href="give-help/food-industry-donations" title="Food Industry Donations">Food Industry Donations</a></li>
+											<li><a href="give-help/yp-pantry" title="YP Pantry">YP Pantry</a></li>
+										</ul>
+									</div>
+									<div class="footer-column">
+										<h4>Food Drives and Fundraisers</h4>
+										<ul>
+											<li><a href="give-help/start-a-drive/how-to-get-started" title="How to Get Started">How to Get Started</a></li>
+											<li><a href="give-help/start-a-drive/virtual-fooddrives" title="Create a Virtual Food Drive">Create a Virtual Food Drive</a></li>
+											<li><a href="give-help/start-a-drive/how-what-amp-where-to-donate" title="Food Drive: Frequently Asked Questions">Food Drive: Frequently Asked Questions</a></li>
+											<li><a href="give-help/start-a-drive/tips-for-a-successful-drive" title="Tips for a Successful Drive">Tips for a Successful Drive</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="span10 col3">
+							<div id="footer-general">
+								<div class="footer-column">
+									<h4>Partner Agencies</h4>
+									<ul>
+										<li><a href="partner-agencies" title="Overview">Overview</a></li>
+										<li><a href="partner-agencies/list" title="List of Partner Agencies">List of Partner Agencies</a></li>
+										<li><a href="partner-agencies/emergency-feeding-programs" title="Emergency Feeding Programs">Emergency Feeding Programs</a></li>
+										<li><a href="partner-agencies/special-distribution-partners" title="Special Distribution Partners">Special Distribution Partners</a></li>
+										<li><a href="partner-agencies/benefits" title="Partner Agency Benefits">Partner Agency Benefits</a></li>
+										<li><a href="https://www.agencyexpress3.org/AgencyExpress30/NewLogin.aspx" title="Agency Online Order">Agency Online Order</a></li>
+									</ul>
+									<ul>
+										<li><h4><a href="about" title="About">About</a></h4></li>
+										<li><a href="about/history" title="History">History</a></li>
+										<li><a href="about/leadership" title="Leadership">Leadership</a></li>
+										<li><a href="about/board-of-directors" title="Board of Directors">Board</a></li>
+										<li><a href="about/strategic-plan" title="Strategic Plan">Strategic Plan</a></li>
+										<li><a href="about/hunger-facts" title="Hunger Facts">Hunger Facts</a></li>
+										<li><a href="about/facts-stats" title="Facts & Stats">Facts & Stats</a></li>
+										<li><a href="about/financial-info" title="Financial Info">Financial Info</a></li>
+										<li><a href="about/faqs" title="FAQs">FAQs</a></li>
+										<li><a href="about/photos-videos" title="Photos & Videos">Photos & Videos</a></li>
+									</ul>
+								</div>
+								<div class="footer-column">
+									<ul>
+										<li><h4><a href="news" title="News">News</a></h4></li>
+										<li><h4><a href="events" title="Events">Events</a></h4></li>
+										<li><h4><a href="harvest-for-hunger" title="Harvest for Hunger">Harvest for Hunger</a></h4></li>
+										<li><h4><a href="employment" title="Employment">Employment</a></h4></li>
+										<li><h4><a href="contact" title="Contact">Contact</a></h4></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="footer-address">
+						<div class="row">
+							<div class="span4 border-right address-logo">
+								<img src="images/logo-footer.jpg" alt="Greater Cleveland Food Bank" title="Greater Cleveland Food Bank" width="134" height="31">
+							</div>
+							<div class="span20 address">
+								Greater Cleveland Food Bank<span>&bull;</span><a href="http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=&daddr=15500+South+Waterloo+Road++Cleveland+OH+44110" title="View in Google Maps" target="_blank">15500 South Waterloo Road<span>&bull;</span>Cleveland, OH 44110<span>&bull;</span></a>(216) 738-2265
+								<div class="sub">The Greater Cleveland Food Bank works to ensure that everyone in our communities has the nutritious food they need every day.</div>
+							</div>
+						</div>
+					</div>
+					<div id="footer-sponsors">
+						<div id="internal-links" class="footer-section">
+							<ul>
+								<li><a href="http://portal.clevelandfoodbank.org/" title="Member Agency Login" target="_blank">Member Agency Login</a></li>
+								<li class="last"><a href="http://portal.clevelandfoodbank.org/board/wp-login.php" title="Board Login" target="_blank">Board Login</a></li>
+							</ul>
+						</div>
+						<div class="footer-section coordinator">
+							<a href="http://www.harvestforhunger.org/" title="Harvest For Hunger" target="_blank">
+								<img src="images/h4h-logo.png" alt="Harvest For Hunger Coordinator" title="Harvest For Hunger Coordinator" width="112" class="hhc-image" style="display: block">
+								<span>local coordinator</span>
+							</a>
+						</div>
+						<div class="footer-section partners">
+							<div class="partners-wrapper">
+								<span>member of</span>
+								<a href="http://feedingamerica.org/" title="Feeding America" target="_blank"><img src="images/logo-feeding-america.jpg" alt="Feeding America" title="Feeding America" width="96" height="48"></a>
+								<a href="http://ohiofoodbanks.org/" title="Ohio Foodbanks" target="_blank"><img src="images/logo-ohio-foodbanks.jpg" alt="Ohio Association of Foodbanks" title="Ohio Association of Foodbanks" width="66" height="65"></a>
+							</div>
+						</div>
+						<div class="footer-section partners last">
+							<div class="partners-wrapper">
+								<a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3523#.VipL6H6rTVYhttp://" title="Charity Navigator" target="_blank"><img src="images/charity-navigator.jpg" alt="Charity Navigator" title="Charity NavigatorCharity Navigator" width="70"></a>
+								<a href="https://www.guidestar.org/profile/34-1292848" target="_blank"><img src="https://widgets.guidestar.org/gximage2?o=7400611&l=v4" width="70"></a>
+							</div>
+						</div>
+					</div>
+					<div id="copyright">
+						<span>&copy; 2019 Greater Cleveland Food Bank</span><span>|</span><span><a href="/about/privacy-policy" title="Privacy Policy">Privacy Policy</a></span>
+						<span>
+							<a href="http://theformgroup.com" title="FORM" target="_blank">
+								<img src="images/site-by-form.png" alt="Site design and develpoment by FORM" title="Site design and development by FORM" width="186" height="12">
+							</a>
+						</span>
+					</div>
+				</div>			
+			</section>
+		</footer>
+		<div id="lightbox-wrapper">
+			<div id="lightbox-pitch">
+				<a href="#" title="No thanks" id="pitch-decline">Don't show again</a>
+				<div id="pitch-close"></div>
+				<a href="https://www.crowdrise.com/o/en/campaign/greater-cleveland-food-bank-qlcleveland2018" class="button-link" target="_blank">Make a Donation Now!</a>
+			</div>
+		</div>
+		<script>
+			$(function() {
+				$('#pitch-decline').click(function() {
+					$('#pitch-close').click();
+					return false;
+				});
+			});
+		</script>
+	</div><!-- END SITE WRAPPER -->
+	</div><!-- END VFD MOBILE OVERLAY WRAPPER -->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=154113644681592";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<script>
+	    (function(f,b,g){
+	        var xo=g.prototype.open,xs=g.prototype.send,c;
+	        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+	        f._hjSettings={hjid:4451, hjsv:2};
+	        function ls(){f.hj.documentHtml=b.documentElement.outerHTML;c=b.createElement("script");c.async=1;c.src="//static.hotjar.com/c/hotjar-4451.js?sv=2";b.getElementsByTagName("head")[0].appendChild(c);}
+	        if(b.readyState==="interactive"||b.readyState==="complete"||b.readyState==="loaded"){ls();}else{if(b.addEventListener){b.addEventListener("DOMContentLoaded",ls,false);}}
+	        if(!f._hjPlayback && b.addEventListener){
+	            g.prototype.open=function(l,j,m,h,k){this._u=j;xo.call(this,l,j,m,h,k)};
+	            g.prototype.send=function(e){var j=this;function h(){if(j.readyState===4){f.hj("_xhr",j._u,j.status,j.response)}}this.addEventListener("readystatechange",h,false);xs.call(this,e)};
+	        }
+	    })(window,document,window.XMLHttpRequest);
+	</script>
+</body>
+</html>
