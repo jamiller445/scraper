@@ -29,8 +29,12 @@ app.use(express.static("public"));
 require("./routes/htmlRoutes")(app);
 require("./routes/apiRoutes")(app);
 
+// If deployed, use the deployed database. Otherwise use the local mongoHeadlines database
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/scraper";
+
 // Database configuration
-mongoose.connect("mongodb://localhost/scraper", { useNewUrlParser: true });
+// mongoose.connect("mongodb://localhost/scraper", { useNewUrlParser: true });
+mongoose.connect(MONGODB_URI);
 
 // Listen on port 8080
 // app.listen(3000, function() {
