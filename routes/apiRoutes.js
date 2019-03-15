@@ -4,10 +4,46 @@
 const db = require("../models");
 const axios = require("axios");
 const cheerio = require("cheerio");
+const mongoose = require("mongoose");
 
 let siteURL = "https://www.greaterclevelandfoodbank.org/news";
 
 module.exports = function(app) {
+
+  app.delete("/api/notes/:id", (req, res) => {
+  // Grab every article note 
+  console.log("_id= ",req.params.id);
+  // db.Note.findByIdAndRemove({_id: req.params.id}, (err,status) => {
+  db.Note.findByIdAndDelete({ _id: req.params.id  }, (err,status) => {
+  if (err) return res.status(500).send(err);  
+  console.log("status= ",status);
+  res.send(status);
+  });
+// db.Article.findOne({ _id: req.params.id })
+//   .then(function(dbArticle) {
+//     // If we were able to successfully find an Article with the given id, send it back to the client
+//     console.log("dbArticle in delete= ", JSON.stringify(dbArticle));
+//     for (i = 0; i < dbArticle.note.length; i++) {
+//         console.log("note-"+ i + "= " + dbArticle.note[i]);
+//     }
+//   })
+//   .catch(function(err) {
+//     // If an error occurred, send it to the client
+//     console.log(err);
+//   });
+return;
+});
+
+//     .then(function(dbArticle) {
+//       // If we were able to successfully find Articles, send them back to the client
+//       // console.log("dbArticle ",JSON.stringify(dbArticle));
+//       res.json(dbArticle);
+//     })
+//     .catch(function(err) {
+//       // If an error occurred, send it to the client
+//       res.json(err);
+//     });
+// });
 
   // Route for saving/updating an Article's associated Note
 app.post("/api/notes/:id", function(req, res) {
@@ -18,7 +54,7 @@ app.post("/api/notes/:id", function(req, res) {
       // If a Note was created successfully, find one Article with an `_id` equal to `req.params.id`. Update the Article to be associated with the new Note
       // { new: true } tells the query that we want it to return the updated User -- it returns the original by default
       // Since our mongoose query returns a promise, we can chain another `.then` which receives the result of the query
-      return db.Article.findOneAndUpdate({ _id: req.params.id }, { note: dbNote._id }, { new: true });
+      return db.Article.findOneAndUpdate({ _id: req.params.id }, { $push: { note: dbNote._id } }, { new: true });
     })
     .then(function(dbArticle) {
       // If we were able to successfully update an Article, send it back to the client
